@@ -30,7 +30,6 @@ target/
 ### Example user template template
 ### Example user template
 
-gradle/wrapper/gradle-wrapper.jar
 # IntelliJ project files
 .idea
 *.iml
